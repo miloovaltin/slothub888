@@ -1,16 +1,16 @@
 {
-"name": "slothub888",
-"theme": "slothub 888",
-"version": "1.4.8",
-"description": "slothub 888 ทางเข้าเว็บบาคาร่าเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
-"keywords": [
-"slothub 888",
-"slothub 888 เครดิตฟรี",
-"slothub 888 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/slothub888",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "slothub888",
+  "theme": "slothub 888",
+  "version": "1.5.0",
+  "description": "slothub 888 ทางเข้าเว็บบาคาร่าเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "slothub 888",
+    "slothub 888 เครดิตฟรี",
+    "slothub 888 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/slothub888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
